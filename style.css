@@ -1,0 +1,52 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  margin: 20px 0;
+}
+
+img {
+  padding: 28px 28px 112px 28px;
+  border: 1px solid hsla(48, 11%, 91%, 0.59);
+  border-radius: 2px;
+}
+
+.img-bay {
+  background-color: hsl(347, 54%, 42%);
+}
+
+.img-woman {
+  background-color: hsl(347, 54%, 42%);
+}
+
+.img-animals {
+  background-color: #2b0829;
+}
+
+div.row {
+  margin: 50px auto;
+}
+div.base-board {
+  background-color: hsl(45, 90%, 89%);
+  border-top: 2px solid hsl(45deg 100% 94%);
+  height: 20px;
+  width: 96%;
+  margin-left: 2%;
+}
+
+#kitchen-wall {
+  margin: 3% 2% 0% 2%;
+  border: 2px solid hsla(48, 11%, 91%, 0.59);
+  padding: 5% 9% 5% 13%;
+  background-color: hsl(0, 29%, 97%);
+}
+
+#bedroom-wall {
+  background-color: hsl(0, 29%, 97%);
+  border: 2px solid hsla(48, 11%, 91%, 0.59);
+  margin: 4% 34%;
+  padding: 5% 0% 5% 0%;
+}
